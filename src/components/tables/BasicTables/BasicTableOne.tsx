@@ -1,3 +1,4 @@
+// frontend\src\components\tables\BasicTables\BasicTableOne.tsx
 import {
   Table,
   TableBody,
